@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ganesh,
+### Hi there 👋 I'm [Ganesh](https://ganeshshanker.com/),
 
 :man_office_worker: A self-taught software engineer, a quick learner, a self-starter, and a pro-active problem solver.
 
