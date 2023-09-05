@@ -1,0 +1,26 @@
+### Hi there 👋 I'm Ganesh,
+
+:man_office_worker: A self-taught software engineer, a quick learner, a self-starter, and a pro-active problem solver.
+
+:man_technologist: Software engineer at [Cognizant](https://www.cognizant.com/), currrently building a product management tool for a corporate client.
+
+:zap: I spend my days (and often nights) immersing myself in the art of coding, using lines of code to transform the internet canvas into captivating and interactive experiences.
+### Tools of Trade
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,js,react,html,css,sass,bootstrap,postman,eclipse,visualstudio,github&perline=7)](https://skillicons.dev)
+### Get in Touch
+- LinkedIn: [Ganesh Shanker K K](https://www.linkedin.com/in/ganeshshankerkk/)
+- Personal Site: [ganeshshanker.com](https://ganeshshanker.com/)
+<!--
+**ganeshshankerkk/ganeshshankerkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
