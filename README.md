@@ -6,7 +6,7 @@
 
 :zap: I spend my days (and often nights) immersing myself in the art of coding, using lines of code to transform the internet canvas into captivating and interactive experiences.
 ### Tools of Trade
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,js,react,html,css,sass,bootstrap,postman,eclipse,visualstudio,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,js,react,html,css,sass,bootstrap,postman,eclipse,visualstudio,github&perline=7&theme=light)](https://skillicons.dev)
 ### Get in Touch
 - LinkedIn: [Ganesh Shanker K K](https://www.linkedin.com/in/ganeshshankerkk/)
 - Personal Site: [ganeshshanker.com](https://ganeshshanker.com/)
